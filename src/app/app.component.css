@@ -1,0 +1,15 @@
+header,nav{
+    text-align: center;
+}
+h1,a{
+    font-weight: bold;
+}
+
+  a{
+      font-size: 18px;
+      text-decoration: underline;
+      margin-right: 12px;
+  }
+  hr{
+      border:3px solid brown;
+  }

@@ -1,0 +1,10 @@
+.content{
+    height: 600px;
+}
+hr{
+    border:3px solid brown;
+}
+p{
+    text-align: center;
+    color:blueviolet;
+}
